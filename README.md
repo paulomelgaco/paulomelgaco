@@ -2,9 +2,9 @@
 Aqui você pode encontrar alguns projetos que estou trabalhando ou que já fiz no passado.
 
 ## Minhas outras redes:
-*[Instagram](https://www.instagram.com/paulomelgacco): Segue lá! Entro de vez em quando, posto raramente, mas respondo DM.
-*[Youtube](https://www.instagram.com/paulomelgacco): Talvez poste alguns conteúdos em breve. Se inscreva!
-*[Twitter](https://twitter.com/_paulomelgaco): Segue lá! Entro raramente, mas aceito que me marque em memes!
+* [Instagram](https://www.instagram.com/paulomelgacco): Segue lá! Entro de vez em quando, posto raramente, mas respondo DM.
+* [Youtube](https://www.instagram.com/paulomelgacco): Talvez poste alguns conteúdos em breve. Se inscreva!
+* [Twitter](https://twitter.com/_paulomelgaco): Segue lá! Entro raramente, mas aceito que me marque em memes!
 <!--
 **paulomelgaco/paulomelgaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
