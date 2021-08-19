@@ -1,5 +1,8 @@
-### Olá 👋
+## Olá 👋
 Aqui você pode encontrar alguns projetos que estou trabalhando ou que já fiz no passado.
+
+## Tecnologias que utilizo:
+<i class="devicon-android-plain-wordmark"></i>
 
 ## Minhas outras redes:
 * [Instagram](https://www.instagram.com/paulomelgacco): Segue lá! Entro de vez em quando, posto raramente, mas respondo DM.
