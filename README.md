@@ -2,7 +2,7 @@
 Aqui você pode encontrar alguns projetos que estou trabalhando ou que já fiz no passado.
 
 ## Tecnologias e linguagens que utilizo:
-Android   |   C#  |  Python  |  Linux  |  Java  |  Windows  |  Kotlin
+Python   |   C++  |  C#  |  Linux  |  Windows  |  Android  |  Java  |  Kotlin
 
 ## Minhas outras redes:
 * [Instagram](https://www.instagram.com/paulomelgacco): Segue lá! Entro de vez em quando, posto raramente, mas respondo DM.
