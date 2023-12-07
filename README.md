@@ -2,8 +2,7 @@
 Aqui você pode encontrar alguns projetos que estou trabalhando ou que já fiz no passado.
 
 ## Tecnologias e linguagens que utilizo:
-Python   |   [C++](https://img.shields.io/badge/-C%2B%2B-ffffff?style=flat-square&logo=c%2B%2B&logoColor=ffffff&labelColor=7D65BB&color=553DB3
-)  |  C#  |  Linux  |  Windows  |  Android  |  Java  |  Kotlin
+Python   |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |  C#  |  Linux  |  Windows  |  Android  |  Java  |  Kotlin
 
 ## Minhas outras redes:
 * [Instagram](https://www.instagram.com/paulomelgacco): Segue lá! Entro de vez em quando, posto raramente, mas respondo DM.
