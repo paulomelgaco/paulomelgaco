@@ -2,7 +2,7 @@
 Aqui você pode encontrar alguns projetos que estou trabalhando ou que já fiz no passado.
 
 ## Tecnologias e linguagens que utilizo:
-![Python](https://img.shields.io/badge/Python-3C6FA4?style=for-the-badge&logo=python&logoColor=F5E670)  |  ![C++](https://img.shields.io/badge/C%2B%2B-553db3?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  ![CSHARP](https://img.shields.io/badge/C%23-5E309E?style=for-the-badge&logo=csharp&logoColor=white)  |  ![Linux](https://img.shields.io/badge/linux-020202?style=for-the-badge&logo=linux&logoColor=FCC624)  |  Windows  |  Android  |  Java  |  Kotlin
+![Python](https://img.shields.io/badge/Python-3C6FA4?style=for-the-badge&logo=python&logoColor=F5E670)  |  ![C++](https://img.shields.io/badge/C%2B%2B-553db3?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  ![CSHARP](https://img.shields.io/badge/C%23-5E309E?style=for-the-badge&logo=csharp&logoColor=white)  |  ![Linux](https://img.shields.io/badge/-LINUX-ffffff?style=flat-square&logo=linux&logoColor=FCC624&labelColor=020202&color=595959)  |  Windows  |  Android  |  Java  |  Kotlin
 
 ## Minhas outras redes:
 * [Instagram](https://www.instagram.com/paulomelgacco): Segue lá! Entro de vez em quando, posto raramente, mas respondo DM.
