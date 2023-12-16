@@ -4,7 +4,7 @@ Feel free to get in touch and I'll reply asap :)
 
 I'm currently learning C++ and Python/Machine Learning.
 
-## Tecnologias e linguagens que utilizo
+## Languages and Technology I use
 [![Python](https://img.shields.io/badge/-PYTHON-ffffff?style=flat-square&logo=python&logoColor=white&labelColor=3776AB&color=FFEE97)](https://github.com/paulomelgaco)  |  [![C++](https://img.shields.io/badge/-C%2B%2B-ffffff?style=flat-square&logo=cplusplus&logoColor=white&labelColor=00599C&color=20B5DA)](https://github.com/paulomelgaco) |  [![C#](https://img.shields.io/badge/-C%23-ffffff?style=flat-square&logo=csharp&logoColor=white&labelColor=512BD4&color=219092)](https://github.com/paulomelgaco)  |  [![Linux](https://img.shields.io/badge/-LINUX-ffffff?style=flat-square&logo=linux&logoColor=black&labelColor=FCC624&color=595959)](https://github.com/paulomelgaco)  |  [![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat-square&logo=windows&logoColor=white&labelColor=0078D4&color=070754)](https://github.com/paulomelgaco)  |  [![Android](https://img.shields.io/badge/-ANDROID-ffffff?style=flat-square&logo=android&logoColor=3DDC84&labelColor=f9f9f9&color=black)](https://github.com/paulomelgaco)  |  [![Java](https://img.shields.io/badge/-JAVA-B70126?style=flat-square&logo=gitea&logoColor=white&labelColor=B70126&color=437291)](https://github.com/paulomelgaco)  |  [![Kotlin](https://img.shields.io/badge/-KOTLIN-ffffff?style=flat-square&logo=kotlin&logoColor=white&labelColor=7F52FF&color=76C361)](https://github.com/paulomelgaco)
 
 ## Social
