@@ -13,7 +13,7 @@ I'm currently learning C++ and Python/Machine Learning.
 * [![Instagram](https://img.shields.io/badge/--black?style=flat-square&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F)](https://www.instagram.com/paulomelgacco) Instagram - Stopped using, but sometimes I check the DMs.
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USER-NAME)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomelgaco)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **paulomelgaco/paulomelgaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
