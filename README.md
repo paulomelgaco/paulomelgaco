@@ -11,6 +11,10 @@ I'm currently learning C++ and Python/Machine Learning.
 * [![X](https://img.shields.io/badge/--black?style=flat-square&logo=x&logoColor=white&labelColor=black&color=090909)](https://twitter.com/_paulomelgaco) X / Twitter - let's see when we get used to this new name.
 * [![Youtube](https://img.shields.io/badge/--black?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000)](https://www.youtube.com/@PauloMelgaco) YTube - I'll start posting soon.
 * [![Instagram](https://img.shields.io/badge/--black?style=flat-square&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F)](https://www.instagram.com/paulomelgacco) Instagram - Stopped using, but sometimes I check the DMs.
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USER-NAME)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **paulomelgaco/paulomelgaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
